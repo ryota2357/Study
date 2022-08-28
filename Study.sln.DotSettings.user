@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/Users/otsukiryota/Library/Caches/JetBrains/Rider2022.2/resharper-host/temp/Rider/vAny/CoverageData/_Study.1005414581/Snapshot/snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5f385aa9_002D2c88_002D4d4b_002Db9fd_002D57bdbc55128a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GateTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::298B1D97-65A4-4F30-98BA-BBBD176F4BA3::net6.0::Bit.Tests.GateTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::298B1D97-65A4-4F30-98BA-BBBD176F4BA3::net6.0::Bit.Tests.BitTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::298B1D97-65A4-4F30-98BA-BBBD176F4BA3::net6.0::Bit.Tests.Numbers.Integer32Test&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::298B1D97-65A4-4F30-98BA-BBBD176F4BA3::net6.0::Bit.Tests.BitUtilTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::298B1D97-65A4-4F30-98BA-BBBD176F4BA3::net6.0::Bit.Tests.CustomGateTest.HalfAdder&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::298B1D97-65A4-4F30-98BA-BBBD176F4BA3::net6.0::Bit.Tests.CustomGateTest.FullAdder&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
